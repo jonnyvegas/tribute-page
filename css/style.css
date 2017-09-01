@@ -1,0 +1,41 @@
+.jumbo {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top:50px;
+  margin-bottom: 50px;
+  padding-bottom: 10px;
+}
+.heading {
+  padding-bottom: 25px;
+}
+
+.padded {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+#cap {
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.pad-img {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.the-body-text{
+  padding-top: 30px;
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+#quote {
+  padding-left: 20%;
+  padding-right: 20%;
+  font-size:200%;
+}
+
+.pad-l-r {
+  padding-left: 20%;
+  padding-right: 20%;
+}
